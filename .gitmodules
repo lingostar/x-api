@@ -1,6 +1,6 @@
 [submodule "metadata"]
 	path = metadata
-	url = https://github.com/exercism/x-common.git
+	url = https://github.com/lingostar/x-common/tree/Translate.git
 [submodule "problems/clojure"]
 	path = problems/clojure
 	url = https://github.com/exercism/xclojure.git
@@ -75,7 +75,7 @@
 	url = https://github.com/exercism/xlua.git
 [submodule "problems/swift"]
 	path = problems/swift
-	url = https://github.com/exercism/xswift.git
+	url = https://github.com/lingostar/xswift/tree/Translate.git
 [submodule "problems/assembly"]
 	path = problems/assembly
 	url = https://github.com/exercism/xassembly.git
