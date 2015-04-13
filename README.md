@@ -14,7 +14,7 @@ The exercises for each language are stored in separate repositories, included
 here as git submodules. This codebase provides an API for serving the Exercism
 exercises to people using the Exercism command-line client.
 
-## Getting Started
+## 시작하기
 
 Fork and clone per usual, then run:
 
